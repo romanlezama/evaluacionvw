@@ -1,0 +1,14 @@
+.margin-top-20{
+	margin-top: 20px;
+}
+.areaGray{
+	margin-top: 15px;
+	height: 200px;
+	background-color: #dbdbdb;
+}
+table.table{
+	font-size: 10pt;
+}
+.padding-like-card{
+	padding: 1.25rem;
+}
